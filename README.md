@@ -1,4 +1,4 @@
-# 🐍 Python Foundations
+# Python Projects
 
 > A structured collection of Python projects built to strengthen core programming concepts — from syntax basics to object-oriented design.
 
