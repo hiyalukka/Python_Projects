@@ -9,7 +9,7 @@
 | # | Project | Concepts Covered | Difficulty |
 |---|---------|-----------------|------------|
 | 01 | Task Manager   | Variables, Data Types, I/O , Loops, Conditionals, Functions| 🟢 Beginner |
-| 02 | [Project Name] | Lists, Tuples, Dictionaries | 🟡 Intermediate |
+| 02 | Expense Tracker | Lists, Tuples, Dictionaries | 🟡 Intermediate |
 | 03 | [Project Name] | File Handling, Exception Handling | 🟡 Intermediate |
 | 04 | [Project Name] | OOP, Classes, Inheritance | 🔴 Advanced |
 
